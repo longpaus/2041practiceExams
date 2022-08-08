@@ -20,3 +20,4 @@ poll|position|artist|track
 2020|19|Halsey|you should be sad
 2020|20|Lime Cordiale|Addicted To The Sunshine
 poll|position|artist|track
+
